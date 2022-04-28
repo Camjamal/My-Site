@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  background-color: antiquewhite;
+  font-family: 'Merriweather' serif sans-serif;
+}
+.btn{
+    border-radius: 50px;
+    color: hsl(239, 100%, 50%);
+    
+  }
+  a:hover{
+    color: orange;
+  }
+
+
+.peotry{
+  text-align: justify;
+  font-style: italic;
+}
+.Work Background Experiences{
+  font-weight: bold;
+}
+.skill-row{
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 50px;
+  position: relative;
+}
+.middle-container img {
+  -webkit-border-radius: 280px;
+  -moz-border-radius: 280px;
+  border-radius: 280px;
+}
+.fire{
+  -webkit-border-radius: 400px;
+-moz-border-radius: 400px;
+border-radius: 400px;
+}
